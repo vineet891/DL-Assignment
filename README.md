@@ -4,7 +4,7 @@ Code for the Assignment of BITS F425 Deep Learning course
 
 The following have been implemented:
 
-- Assignment-1
+- Assignment-1:
 17 different Deep Neural Network models for a Multiclass Classification task are evaluated and compared. The models differ in hyperparameters such as -
   - Activation Functions in the hidden layers
     - Sigmoid
