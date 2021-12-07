@@ -15,3 +15,6 @@ The following have been implemented:
     - KL-Divergence
   - Number of Hidden Layers - 1 to 10
   - Number of Nodes in Hidden Layers - 16 to 1024
+
+- Assignment-2:
+A Convolutional Neural Network(CNN) for a Multiclass Classification task is run. The performance of the model is analyzed.
